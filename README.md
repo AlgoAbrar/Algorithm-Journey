@@ -25,7 +25,7 @@ Welcome to my **Data Structures & Algorithms Journey** repository! This is where
 ---
 
 ## 📂 Repository Structure
-```plaintext
+
 Algorithms-Journey/
 │
 ├── Graph/
