@@ -1,18 +1,18 @@
-#Algorithms Journey 🚀
+# Data Structures & Algorithms Journey 🚀
 
 Welcome to my **Data Structures & Algorithms Journey** repository! This is where I document my learning and implementations of various algorithms and data structures as I dive deeper into the world of Computer Science. The repository includes code, explanations, and examples to help solidify my understanding and assist others in learning these essential concepts.
 
 ---
 
 ## 📋 Topics Covered
-01. **Adjacency List**  
-02. **Bellman-Ford Algorithm**  
-03. **Dijkstra Algorithm**  
-04. **Disjoint Set Union**  
-05. **Dynamic Programming**  
-06. **Floyd Warshall Algorithm**  
-07. **Graph Traversal (BFS & DFS)**  
-08. **Knapsack 0-1**  
+01. **[Adjacency List](https://github.com/AlgoAbrar/Algorithm-Journey/tree/main/Adjacency%20List)**  
+02. **[Bellman-Ford Algorithm](https://github.com/AlgoAbrar/Algorithm-Journey/tree/main/Bellman-Ford%20Algorithm)**  
+03. **[Dijkstra Algorithm](https://github.com/AlgoAbrar/Algorithm-Journey/tree/main/Dijkstra%20Algorithm)**  
+04. **[Disjoint Set Union](https://github.com/AlgoAbrar/Algorithm-Journey/tree/main/Disjoint%20Set%20Union)**  
+05. **[Dynamic Programming](https://github.com/AlgoAbrar/Algorithm-Journey/tree/main/Dynamic%20Programming)**  
+06. **[Floyd Warshall Algorithm](https://github.com/AlgoAbrar/Algorithm-Journey/tree/main/Floyd%20Warshall%20Algorithm)**  
+07. **[Graph Traversal (BFS & DFS)](https://github.com/AlgoAbrar/Algorithm-Journey/tree/main/Graph%20Traversal)**  
+08. **[Knapsack 0-1](https://github.com/AlgoAbrar/Algorithm-Journey/tree/main/Knapsack%200-1)**  
 
 ---
 
@@ -29,16 +29,16 @@ Welcome to my **Data Structures & Algorithms Journey** repository! This is where
 Algorithms-Journey/
 │
 ├── Graph/
-│   ├── AdjacencyList
-│   ├── GraphTraversal (BFS & DFS)
-│   ├── Dijkstra Algorithm
-│   ├── BellmanFordAlgorithm
-│   ├── FloydWarshallAlgorithm
+│   ├── [Adjacency List](https://github.com/AlgoAbrar/Algorithm-Journey/tree/main/Adjacency%20List)
+│   ├── [Graph Traversal (BFS & DFS)](https://github.com/AlgoAbrar/Algorithm-Journey/tree/main/Graph%20Traversal)
+│   ├── [Dijkstra Algorithm](https://github.com/AlgoAbrar/Algorithm-Journey/tree/main/Dijkstra%20Algorithm)
+│   ├── [Bellman-Ford Algorithm](https://github.com/AlgoAbrar/Algorithm-Journey/tree/main/Bellman-Ford%20Algorithm)
+│   ├── [Floyd Warshall Algorithm](https://github.com/AlgoAbrar/Algorithm-Journey/tree/main/Floyd%20Warshall%20Algorithm)
 │
 ├── Dynamic Programming/
-│   ├── Knapsack 0-1
-│   
-├── DisjointSet/
-│   ├── DisjointSetUnion
+│   ├── [Knapsack 0-1](https://github.com/AlgoAbrar/Algorithm-Journey/tree/main/Knapsack%200-1)
 │
-└── README.md (this file)
+├── DisjointSet/
+│   ├── [Disjoint Set Union](https://github.com/AlgoAbrar/Algorithm-Journey/tree/main/Disjoint%20Set%20Union)
+│
+└── END
