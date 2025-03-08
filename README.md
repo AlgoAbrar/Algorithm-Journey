@@ -24,21 +24,23 @@ Welcome to my **Data Structures & Algorithms Journey** repository! This is where
 
 ---
 
-## 📂 Repository Structure<br>
-
-Algorithms-Journey/<br>
-│<br>
-├── Graph/<br>
-│   <t>├── [Adjacency List](https://github.com/AlgoAbrar/Algorithm-Journey/tree/main/Adjacency%20List)<br>
-│   <t>├── [Graph Traversal (BFS & DFS)](https://github.com/AlgoAbrar/Algorithm-Journey/tree/main/Graph%20Traversal)<br>
-│   <t>├── [Dijkstra Algorithm](https://github.com/AlgoAbrar/Algorithm-Journey/tree/main/Dijkstra%20Algorithm)<br>
-│   <t>├── [Bellman-Ford Algorithm](https://github.com/AlgoAbrar/Algorithm-Journey/tree/main/Bellman-Ford%20Algorithm)<br>
-│   <t>├── [Floyd Warshall Algorithm](https://github.com/AlgoAbrar/Algorithm-Journey/tree/main/Floyd%20Warshall%20Algorithm)<br>
-│<br>
-├── Dynamic Programming/<br>
-│   <t>├── [Knapsack 0-1](https://github.com/AlgoAbrar/Algorithm-Journey/tree/main/Knapsack%200-1)<br>
-│<br>
-├── DisjointSet/<br>
-│   <t>├── [Disjoint Set Union](https://github.com/AlgoAbrar/Algorithm-Journey/tree/main/Disjoint%20Set%20Union)<br>
-│<br>
-└── END<br>
+## 📂 Repository Structure
+```plaintext
+Algorithms-Journey/
+│
+├── Graph/
+│   ├── [Adjacency List]
+│   ├── [Graph Traversal (BFS & DFS)]
+│   ├── [Dijkstra Algorithm]
+│   ├── [Bellman-Ford Algorithm]
+│   ├── [Floyd Warshall Algorithm]
+│
+├── Dynamic Programming/
+│   ├── [Knapsack 0-1]
+│   ├── Problem Solving
+│
+├── DisjointSet/
+│   ├── [Disjoint Set Union]
+│   └── Problem Solving
+│
+└── End
